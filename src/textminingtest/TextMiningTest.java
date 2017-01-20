@@ -12,7 +12,7 @@ public class TextMiningTest {
 
     public static void main(String[] args) {
     
-        File wikipediaDataset = new File("C:\\Users\\Wilk\\Documents\\NetBeansProjects\\TextMiningTest\\files\\wikipediadataset.csv"); // Pega o arquivo .csv a ser trabalhado
+        File wikipediaDataset = new File("C:\\Users\\Wilk Oliveira\\Documents\\GitHub\\TextMiningTest\\files\\wikipediadataset.csv"); // Pega o arquivo .csv a ser trabalhado
         
         /**
          * Deixa todo o código dentro de try-catch para controlar erros nativos de arquivo não encontrado
